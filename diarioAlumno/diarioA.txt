@@ -1,1 +1,2 @@
 Aquí viene tu diario
+Aquí voy a añadir la nueva funcionalidad, la cual es un saludo a Nate que nunca leerá.
