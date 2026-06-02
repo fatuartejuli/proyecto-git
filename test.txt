@@ -1,1 +1,2 @@
 Aqui voy a probar a crear un nuevo diario de prueba
+Ejecutando los primeros test además de aprender esto del echo y el doble >>\n
